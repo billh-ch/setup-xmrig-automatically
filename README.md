@@ -1,5 +1,5 @@
-# setup-xmrig-automaticaly
-Setup the xmrig program to mine XMR, automaticaly.
+# setup-xmrig-automatically
+Setup the xmrig program to mine XMR, automatically.
 
 This program will help you automate the process of installing xmrig to your linux machine. It will install all the requirements and then ask how you want to mine. After you start mining, either with the program or with your own command, the program will stop and will not run in the backround. The mining is done with the xmrig program. After you can remove the program if you want.
 
