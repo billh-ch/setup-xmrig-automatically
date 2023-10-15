@@ -1,5 +1,7 @@
 #!bin/bash
 
+cd
+
 echo -e "\e[31mDo you want your system to update? y/n \e[0m"
 
 read answer_to_update
@@ -35,7 +37,7 @@ sleep 2
 
 make
 
-echo "\e[31mDo you want to start mining now? y/n \e[0m"
+echo -e "\e[31mDo you want to start mining now? y/n \e[0m"
 
 read answer_to_mine
 
