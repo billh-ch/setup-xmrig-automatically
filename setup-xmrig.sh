@@ -49,19 +49,6 @@ if [[ $answer_to_mine == "y" ]]; then
 	
 	read wallet_address
 	
-	echo -e "\e[31mDo you want to solo mine? y/n \e[0m"
-	
-	read answer_to_solo_mine
-	
-	if [[ $answer_to_solo_mine == "y" ]]; then
-		echo -e "\e[31mHow do you want to name your miner? \e[0m"
-		
-		read name_of_miner
-		
-		./xmrig -u $wallet_address -p $name_of_mine
-		
-	fi
-	
 	echo -e "\e[31mDo you want to enter your own pool or continue with the default one(monero ocean)? e(enter)/d(default) \e[0m"
 	
 	read answer_to_enter_pool
@@ -91,4 +78,4 @@ if [[ $answer_to_mine == "y" ]]; then
 
 fi
 
-echo -e "\e[31mTo start mining you will need to enter a command! The command is: ./xmrig -o gulf.moneroocean.stream:10128 -u yourwalletaddress -p nameofyourpi NOTE: If you want to change the mining pool you will need to change the text that says: -o gulf.moneroocean.com:10128, unless you are solo mining! \e[0m"
+echo -e "\e[31mTo start mining you will need to enter a command! The command is: ./xmrig -o gulf.moneroocean.stream:10128 -u (yourwalletaddress) -p nameofyourminer NOTE: If you want to change the mining pool you will need to change the part that says: -o gulf.moneroocean.stream:10128 . \e[0m"
