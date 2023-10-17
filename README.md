@@ -41,6 +41,10 @@ If you want to enter your own pool simply type "e" and then enter the domain and
     
 ![Screenshot 2023-10-16 230425](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/de0a2992-0e54-406a-a821-94401b6c7114)
 
+If you want to mine later and your entered "n" when the script prompted you to mine now, simply cd into the xmrig directory that was created in the root directory, cd into the build directory and type: ./xmrig -o gulf.moneroocean.stream:10128(or any other mining pool) -u (yourwalletaddress) -p nameofyourminer .
+![Screenshot 2023-10-17 170954](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/d7141dc6-70aa-43bb-a932-5c5f9a70a5d2)
+
+
 And Done❗ Best of luck mining XMR🍀
 
 ![Screenshot 2023-10-16 230732](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/bd733a1d-f6c6-4da9-90b1-ae009bdb1b88)
