@@ -25,23 +25,19 @@ git clone https://github.com/billh-ng/setup-xmrig-automatically.git
    ![Screenshot 2023-10-16 224055](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/4205ecca-1404-403f-8166-2909e705d700)
 5. Let the script do its thing, I know it's gonna take a while, relax🧃.
 6. Select if you want to start mining now⛏:
-If you want to start mining now type "y", if not type "n"
-![Screenshot 2023-10-16 224429](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/6a47f662-f480-4816-8e7f-a6da0e2f8367)
-
-Let's start now!
+If you want to start mining now type "y", if not type "n". Let's start now!
+![Screenshot 2023-10-17 170509](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/d5971dd5-e506-4ac3-91fa-eac358cbc92d)
 
 7. Paste in your XMR wallet💰:
 ![Screenshot 2023-10-16 224718](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/87da5523-8c8a-421e-aa19-cf8ddeece9ae)
-8. Select the type of mining you're going to do: Type "y" to start solo mining, type "n" to enter a pool and start mining: It's better to enter a pool and mine so you can earn more XMR!
-![Screenshot 2023-10-16 225336](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/c70f4009-c1ec-4c95-a147-ddd3a6cc4657)
-9. Select a pool🌊: You can enter the default which is Monero Ocean (gulf.moneroocean.stream:10128) or one of your choice. I'm going with the default one.
+8. Select a pool🌊: You can enter the default which is Monero Ocean (gulf.moneroocean.stream:10128) or one of your choice. I'm going with the default one.
     
 ![Screenshot 2023-10-16 225847](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/f781ee23-dd03-49c7-b8d5-7a79e33d1a4a)
 
 If you want to enter your own pool simply type "e" and then enter the domain and port of your mining pool:
-![Screenshot 2023-10-16 230137](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/f925da58-a0c1-477f-9f8d-54f636204961)
+![Screenshot 2023-10-17 170714](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/0ee135d6-f28d-4ec7-b342-10320c39bdf2)
 
-10. Name your miner👷‍♂️:
+9. Name your miner👷‍♂️:
     
 ![Screenshot 2023-10-16 230425](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/de0a2992-0e54-406a-a821-94401b6c7114)
 
