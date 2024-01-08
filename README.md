@@ -5,7 +5,7 @@ This script will help you automate the process of installing xmrig to your Linux
 
 This program will help you start mining XMR and save you some time.
 
-To start the project simply create a file named: setup-xmrig.sh, paste the code in there and open a terminal. Or just clone the repository. After that simply cd into the directory of the scriptand type: bash setup-xmrig.sh and follow the steps of the script. Finally you can start mining when the program prompts you to do it, if you want. Or do it manually, as the script shows in the end. Also you can clone into this project using Git and then run the command following the instructions below.
+To start the setup simply clone into the repository. After that cd into the directory of the script and type: bash setup-xmrig.sh and follow the steps of the script. Finally you can start mining when the program prompts you to do it, if you want. Or do it manually, as the script shows in the end.
 
 The script does not collect any information like the wallet address.
 
