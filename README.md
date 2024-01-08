@@ -16,7 +16,7 @@ Instructions📖:
 git clone https://github.com/billh-ng/setup-xmrig-automatically.git
 ![Screenshot 2023-10-16 223508](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/8202de03-f7f0-4bba-aad5-73cbad4f8cee)
 
-2. Go into the file that was created📁: cd setup-xmrig-automatically
+2. Go into the directory that was created📁: cd setup-xmrig-automatically
    ![Screenshot 2023-10-16 223707](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/9d7451fb-4b79-4483-9ada-784d3e051aa8)
 
 3. Run the script📜: bash setup_xmrig.sh
