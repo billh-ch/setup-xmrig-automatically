@@ -21,7 +21,7 @@ git clone https://github.com/billh-ng/setup-xmrig-automatically.git
 
 * 3. Run the script📜: bash setup_xmrig.sh
    ![Screenshot 2023-10-16 223937](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/a5b68bb9-02f2-43c5-af28-2d9fe3dfaceb)
-* 4. Update your system: y
+* 4. Update your system🖥️: y
    ![Screenshot 2023-10-16 224055](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/4205ecca-1404-403f-8166-2909e705d700)
 * 5. Let the script do its thing, I know it's gonna take a while, relax🧃.
 * 6. Select if you want to start mining now⛏:
@@ -45,6 +45,6 @@ If you want to mine later and your entered "n" when the script prompted you to m
 ![Screenshot 2023-10-17 170954](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/d7141dc6-70aa-43bb-a932-5c5f9a70a5d2)
 
 
-And Done❗ Best of luck mining XMR🍀
+And Done‼️ Best of luck mining XMR🍀
 
 ![Screenshot 2023-10-16 230732](https://github.com/billh-ng/setup-xmrig-automatically/assets/131195834/bd733a1d-f6c6-4da9-90b1-ae009bdb1b88)
